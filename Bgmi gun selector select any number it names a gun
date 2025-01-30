@@ -67,26 +67,24 @@ elif x == 30:
 elif x == 31:
      print("MK14")
 elif x == 32:
-     print("SLR")
-elif x == 33:
       print("SKS")
 #shotguns
-elif x == 34:
+elif x == 33:
      print("S12K")
-elif x == 35:
+elif x == 34:
      print("M1014")
-elif x == 36:
+elif x == 35:
      print("S686")
-elif x == 37:
+elif x == 36:
      print("DBS")
-elif x == 38:
+elif x == 37;
      print("S1897")
-elif x == 39:
+elif x == 38:
      print("NS2000")
 #LMGs
-elif x == 40:
+elif x == 39:
      print("m249")
-elif x == 41:
+elif x == 40:
      print("MG3")
-elif x == 42:
+elif x == 41:
      print("DP-28")
