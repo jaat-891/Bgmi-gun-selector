@@ -130,3 +130,4 @@ elif x == 59:
      print("machete")
 else:
      print("There are no more guns in BGMI; all gun names have been listed above.")
+#code completed if you find any error please tell me 
