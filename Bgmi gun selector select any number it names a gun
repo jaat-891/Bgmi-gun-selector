@@ -6,15 +6,15 @@ if x == 1:
 elif x == 2:
     print("scar-l")
 elif x == 3:
-    print("m416")
+    print("M416")
 elif x == 4:
     print("groza")
 elif x == 5:
     print("aug")
 elif x == 6:
-    print("m146a")
+    print("M16A4")
 elif x == 7:
-    print("m762")
+    print("M762")
 elif x == 8:
     print("famas")
 elif x == 9:
@@ -22,7 +22,7 @@ elif x == 9:
 elif x == 10:
     print("mk47 mutant")
 elif x == 11:
-    prinr("g36c")
+    print("g36c")
 elif x == 12:
     print("honey badger")
  #SMGs
@@ -31,7 +31,7 @@ elif x == 13:
 elif x == 14:
     print("ump 45")
 elif x == 15:
-    print("pp-19 pizon")
+    print("pp-19 bizon")
 elif x == 16:
     print("MP5K")
 elif x == 17:
@@ -50,7 +50,7 @@ elif x == 22:
 elif x == 23:
     print("AMR")
 elif x == 24:
-    print("mosin nangant") 
+    print("mosin nagant") 
 #DMRs
 elif x == 25:
      print("win94")
@@ -63,7 +63,7 @@ elif x == 28:
 elif x == 29:
      print("MK12")
 elif x == 30:
-     prinr("SLR")
+     print("SLR")
 elif x == 31:
      print("MK14")
 elif x == 32:
@@ -77,7 +77,7 @@ elif x == 35:
      print("S686")
 elif x == 36:
      print("DBS")
-elif x == 37;
+elif x == 37:
      print("S1897")
 elif x == 38:
      print("NS2000")
@@ -128,5 +128,5 @@ elif x == 58:
      print("sickle")
 elif x == 59:
      print("machete")
- else:
-     print("there are not more guns in bgmi all guns name are written before")
+else:
+     print("There are no more guns in BGMI; all gun names have been listed above.")
