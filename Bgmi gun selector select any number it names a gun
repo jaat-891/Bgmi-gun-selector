@@ -1,0 +1,54 @@
+#code to detect bgmi guns 
+x = int(input("Enter a number: "))
+#assault rifles
+if x == 1:
+    print("akm")
+elif x == 2:
+    print("scar-l")
+elif x == 3:
+    print("m416")
+elif x == 4:
+    print("groza")
+elif x == 5:
+    print("aug")
+elif x == 6:
+    print("m146a")
+elif x == 7:
+    print("m762")
+elif x == 8:
+    print("famas")
+elif x == 9:
+    print("QBZ")
+elif x == 10:
+    print("mk47 mutant")
+elif x == 11:
+    prinr("g36c")
+elif x == 12:
+    print("honey badger")
+ #SMGs
+elif x == 13:
+    print("thompson smg")
+elif x == 14:
+    print("ump 45")
+elif x == 15:
+    print("pp-19 pizon")
+elif x == 16:
+    print("MP5K")
+elif x == 17:
+    print("P90")
+elif x == 18:
+    print("UZI")
+elif x == 19:
+    print("vector")
+#sniper
+elif x == 20:
+    print("awm")
+elif x == 21:
+    print("m24")
+elif x == 22:
+    print("Kar98K")
+elif x == 23:
+    print("AMR")
+elif x == 24:
+    print("mosin nangant") 
+#DMRs
