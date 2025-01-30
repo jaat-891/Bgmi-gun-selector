@@ -52,3 +52,41 @@ elif x == 23:
 elif x == 24:
     print("mosin nangant") 
 #DMRs
+elif x == 25:
+     print("win94")
+elif x == 26:
+     print("VSS")
+elif x == 27:
+     print("mini 14")
+elif x == 28:
+     print("QBU")
+elif x == 29:
+     print("MK12")
+elif x == 30:
+     prinr("SLR")
+elif x == 31:
+     print("MK14")
+elif x == 32:
+     print("SLR")
+elif x == 33:
+      print("SKS")
+#shotguns
+elif x == 34:
+     print("S12K")
+elif x == 35:
+     print("M1014")
+elif x == 36:
+     print("S686")
+elif x == 37:
+     print("DBS")
+elif x == 38:
+     print("S1897")
+elif x == 39:
+     print("NS2000")
+#LMGs
+elif x == 40:
+     print("m249")
+elif x == 41:
+     print("MG3")
+elif x == 42:
+     print("DP-28")
