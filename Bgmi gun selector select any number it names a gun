@@ -88,3 +88,45 @@ elif x == 40:
      print("MG3")
 elif x == 41:
      print("DP-28")
+#pistols
+elif x == 42:
+     print("R45")
+elif x == 43:
+     print("desert eagle")
+elif x == 44:
+     print("P1911")
+elif x == 45:
+     print("P92")
+elif x == 46:
+     print("skorpion")
+elif x == 47:
+    print("P18C")
+elif x == 48:
+    print("R1895")
+elif x == 49:
+     print("Sawd-off")
+#crossbow
+elif x == 50:
+     print("crossbow")
+elif x == 51:
+     print("tactical crossbow")
+#throwables
+elif x == 52:
+     print("frag grenade")
+elif x == 53:
+     print("smoke grenade")
+elif x == 54:
+     print("stun grenade")
+elif x == 55:
+     print("molotov cocktail")
+#melee 
+elif x == 56:
+     print("crowbar")
+elif x == 57:
+     print("Pan")
+elif x == 58:
+     print("sickle")
+elif x == 59:
+     print("machete")
+ else:
+     print("there are not more guns in bgmi all guns name are written before")
